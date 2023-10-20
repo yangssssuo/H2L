@@ -1,0 +1,13 @@
+/.vscode
+/Data_Loader4000.py
+/__pycache__
+/attn_w
+/best_model.ckpt.ts.bk
+/best_model0628.ckpt
+/best_model_1000_1_8dep.ckpt.bk
+/best_model_unet_gru.ckpt
+/figs
+/logs
+/spec
+/spec_data
+/val_attn
